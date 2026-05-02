@@ -1,0 +1,1 @@
+# BrightLearn-SQL-fundamentals-Exercise-1-2
